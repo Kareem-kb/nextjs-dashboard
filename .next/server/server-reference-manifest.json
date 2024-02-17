@@ -2,8 +2,8 @@
   "node": {
     "5a22ef557d7e640bc399ae1319b0686cbf14def2": {
       "workers": {
-        "app/dashboard/invoices/create/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FkareemAhmad%2FDownloads%2FPersonal%2FNextJS%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22createInvoice%22%2C%22updateInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=!",
-        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FkareemAhmad%2FDownloads%2FPersonal%2FNextJS%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22createInvoice%22%2C%22updateInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=!"
+        "app/dashboard/invoices/create/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FkareemAhmad%2FDownloads%2FPersonal%2FNextJS%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22deleteInvoice%22%2C%22updateInvoice%22%2C%22createInvoice%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FkareemAhmad%2FDownloads%2FPersonal%2FNextJS%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22deleteInvoice%22%2C%22updateInvoice%22%2C%22createInvoice%22%5D%5D%5D&__client_imported__=!"
       },
       "layer": {
         "app/dashboard/invoices/create/page": "rsc",
@@ -12,8 +12,8 @@
     },
     "92e090a0440869c39262064abc4d6a3555e43ea3": {
       "workers": {
-        "app/dashboard/invoices/create/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FkareemAhmad%2FDownloads%2FPersonal%2FNextJS%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22createInvoice%22%2C%22updateInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=!",
-        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FkareemAhmad%2FDownloads%2FPersonal%2FNextJS%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22createInvoice%22%2C%22updateInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=!"
+        "app/dashboard/invoices/create/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FkareemAhmad%2FDownloads%2FPersonal%2FNextJS%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22deleteInvoice%22%2C%22updateInvoice%22%2C%22createInvoice%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FkareemAhmad%2FDownloads%2FPersonal%2FNextJS%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22deleteInvoice%22%2C%22updateInvoice%22%2C%22createInvoice%22%5D%5D%5D&__client_imported__=!"
       },
       "layer": {
         "app/dashboard/invoices/create/page": "rsc",
@@ -22,8 +22,8 @@
     },
     "0b470aa8683bca0e25c5051949b4044919cdd24f": {
       "workers": {
-        "app/dashboard/invoices/create/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FkareemAhmad%2FDownloads%2FPersonal%2FNextJS%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22createInvoice%22%2C%22updateInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=!",
-        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FkareemAhmad%2FDownloads%2FPersonal%2FNextJS%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22createInvoice%22%2C%22updateInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=!"
+        "app/dashboard/invoices/create/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FkareemAhmad%2FDownloads%2FPersonal%2FNextJS%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22deleteInvoice%22%2C%22updateInvoice%22%2C%22createInvoice%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FkareemAhmad%2FDownloads%2FPersonal%2FNextJS%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22deleteInvoice%22%2C%22updateInvoice%22%2C%22createInvoice%22%5D%5D%5D&__client_imported__=!"
       },
       "layer": {
         "app/dashboard/invoices/create/page": "rsc",
